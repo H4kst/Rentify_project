@@ -14,4 +14,3 @@ EPIC03 - Core Bussines
 - 'PruebasUnitarias.feature': Relacionado con US13 - Asegura que los tests unitarios funcionen correctamente para funciones críticas.
 - 'ControlVersiones.feature': Relacionado con US14 - Valida el uso del control de versiones (Git) para trabajo colaborativo.
 - 'AlmacenamientoEficiente.feature': Relacionado con US15 - Garantiza el almacenamiento eficiente de fotos/videos con estructuras de datos.
-- 
