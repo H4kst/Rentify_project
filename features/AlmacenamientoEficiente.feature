@@ -9,3 +9,11 @@ Feature: Almacenamiento eficiente de archivos multimedia usando estructuras de d
     When el archivo es procesado por el sistema
     Then el archivo se almacena utilizando una estructura de datos como lista o árbol
     And puede recuperarse sin depender de una API externa
+
+Examples:
+      | tipo_archivo | estructura |
+      | imagen       | lista      |
+      | video        | árbol      |
+      | audio        | grafo      |
+      | documento    | hash       |
+      | imagen       | matriz     |
