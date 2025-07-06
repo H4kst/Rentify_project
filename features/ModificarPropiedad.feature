@@ -16,7 +16,6 @@ Examples:
       | Casa Miraflores         | inactiva     |
       | Mini Loft Barranco      | inactiva     |
 
---------------------------------------------------------------------------------------------------
 
   Scenario: Modificar información de una propiedad
     Given un propietario autenticado accede al detalle de su propiedad
